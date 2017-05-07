@@ -1,6 +1,9 @@
 # PubliciBot
 Sistema para generar camapañas publicitarias en redes sociales.
 
+BACKLOG
+https://especificacionsoftwareungs17.myjetbrains.com/youtrack
+
 **Como configurar el proyecto:**
 1) Descargar IntelliJ Comunity (con eclipse funciona pero es mas complicado)
 
